@@ -1,0 +1,3 @@
+https://deepbluembedded.com/stm32-hc-05-bluetooth-module-examples/
+
+https://microcontrollerslab.com/hc-05-bluetooth-module-stm32-blue-pill-stm32cubeide/
